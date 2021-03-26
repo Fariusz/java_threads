@@ -1,0 +1,1 @@
+Odczyt: null			przez watek nr: Thread[Thread-5,5,main]
